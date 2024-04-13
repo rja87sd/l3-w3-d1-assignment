@@ -1,0 +1,20 @@
+.card {
+    background-color: #f7f7f7;
+    border: #333;
+    border-radius: 11px;
+    padding: 10px;
+    height: auto;
+    width: auto;
+    &__header {
+        font-size: 25px;
+    }
+    &__footer {
+        text-align: center;
+        margin-top: 45px;
+    }
+}
+
+.mt-2 {
+    margin-top: 20px;
+}
+
