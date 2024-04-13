@@ -1,0 +1,13 @@
+.userprofile {
+    background-color: slategray;
+    border: #333;
+    border-radius: 11px;
+    padding: 10px;
+    height: auto;
+    width: auto;
+    &__hobbies {
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+    }
+}
